@@ -1,5 +1,6 @@
 package com.s.client;
 
+import com.s.client.util.SecurityUtils;
 import org.junit.Test;
 
 public class HMACTest {
