@@ -1,5 +1,5 @@
-# scala-cliente
-SCALA Cliente Demo Code / SCALA Cliente Connettività dimostrazione
+# java-rest-client-demo
+Demonstrate rest connectivity, hmac calculation etc.
 
 # java version
 All code must use Java 8 minimum
